@@ -1,6 +1,6 @@
 # Bank-Customer-Churn-Prediction-
 I have trained an Artificial Neural Network ( model ) that predicts whether
-the customer exit the bank or not in future based on the features
+the customer will exit the bank or not in future based on the features
 like their salary , active status , bank balance , credit card , credit score etc.
 
 <i>Model Accuracy : 86%</i>
