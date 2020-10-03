@@ -5,10 +5,13 @@ like their salary , active status , bank balance , credit card , credit score et
 
 Model Summary : 
 
-Accuracy 
+<p><b>Accuracy:</p></b> 
+
+
 <img src="https://github.com/Ganesh9100/Bank-Customer-Churn-Prediction-/blob/main/download1.png" width="250" title="hover text">
 
-Loss 
+<p><b>Loss</p></b>
+
 <img src="https://github.com/Ganesh9100/Bank-Customer-Churn-Prediction-/blob/main/download2.png" width="250" title="hover text">
 
 
