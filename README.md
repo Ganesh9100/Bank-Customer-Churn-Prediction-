@@ -34,6 +34,12 @@ Give model name and email id
 It will ask for password [NOTE: password should be same as tensordash app password]
 
 
+# Sample Image
+
+
+<img src="https://github.com/Ganesh9100/Bank-Customer-Churn-Prediction-/blob/main/sample.jpeg" width="450" title="hover text">
+
+
 
 
 
