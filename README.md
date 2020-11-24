@@ -10,11 +10,11 @@ like their salary , active status , bank balance , credit card , credit score et
 <p><b>Accuracy:</p></b> 
 
 
-<img src="https://github.com/Ganesh9100/Bank-Customer-Churn-Prediction-/blob/main/acc.png width="450" title="hover text">
+<img src="https://github.com/Ganesh9100/Bank-Customer-Churn-Prediction-/blob/main/acc.png" width="450" title="hover text">
 
 <p><b>Loss</p></b>
 
-<img src="https://github.com/Ganesh9100/Bank-Customer-Churn-Prediction-/blob/main/loss.png width="450" title="hover text">
+<img src="https://github.com/Ganesh9100/Bank-Customer-Churn-Prediction-/blob/main/loss.png" width="450" title="hover text">
 
 
 
