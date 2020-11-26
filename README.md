@@ -2,19 +2,57 @@
 I have trained an Artificial Neural Network ( model ) that predicts whether
 the customer will exit the bank or not in future based on the features
 like their salary , active status , bank balance , credit card , credit score etc.
+<b>After Hyper Parameter Tuning</b>
 
-<i>Model Accuracy : 86%</i>
+<i>Model Accuracy : 86.75%</i>
 
 <b>Model Summary :</b>
 
 <p><b>Accuracy:</p></b> 
 
 
-<img src="https://github.com/Ganesh9100/Bank-Customer-Churn-Prediction-/blob/main/acc.png" width="450" title="hover text">
+<img src="https://github.com/Ganesh9100/Bank-Customer-Churn-Prediction-/blob/main/hyper_accuracy.png" width="450" title="hover text">
 
 <p><b>Loss</p></b>
 
-<img src="https://github.com/Ganesh9100/Bank-Customer-Churn-Prediction-/blob/main/loss.png" width="450" title="hover text">
+<img src="https://github.com/Ganesh9100/Bank-Customer-Churn-Prediction-/blob/main/hyper_loss.png" width="450" title="hover text">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<b>Before Hyper Parameter Tuning</b>
+
+<i>Model Accuracy : 86.75%</i>
+
+<b>Model Summary :</b>
+
+<p><b>Accuracy:</p></b> 
+
+
+<img src="https://github.com/Ganesh9100/Bank-Customer-Churn-Prediction-/blob/main/hyper_accuracy.png" width="450" title="hover text">
+
+<p><b>Loss</p></b>
+
+<img src="https://github.com/Ganesh9100/Bank-Customer-Churn-Prediction-/blob/main/hyper_loss.png" width="450" title="hover text">
+
+
+
+
+
 
 
 
@@ -37,7 +75,16 @@ It will ask for password [NOTE: password should be same as tensordash app passwo
 # Sample Image
 
 
-<img src="https://github.com/Ganesh9100/Bank-Customer-Churn-Prediction-/blob/main/sample.jpeg" width="450" title="hover text">
+<img src="https://github.com/Ganesh9100/Bank-Customer-Churn-Prediction-/blob/main/disp.jpeg" width="450" title="hover text">
+
+
+<img src="https://github.com/Ganesh9100/Bank-Customer-Churn-Prediction-/blob/main/r4.jpeg" width="450" title="hover text">
+
+
+<img src="https://github.com/Ganesh9100/Bank-Customer-Churn-Prediction-/blob/main/r3.jpeg" width="450" title="hover text">
+
+
+<img src="https://github.com/Ganesh9100/Bank-Customer-Churn-Prediction-/blob/main/r1.jpeg" width="450" title="hover text">
 
 
 
