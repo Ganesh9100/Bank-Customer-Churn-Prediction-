@@ -36,7 +36,7 @@ like their salary , active status , bank balance , credit card , credit score et
 
 <b>Before Hyper Parameter Tuning</b>
 
-<i>Model Accuracy : 86.75%</i>
+<i>Model Accuracy : 86.65%</i>
 
 <b>Model Summary :</b>
 
