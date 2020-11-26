@@ -2,8 +2,9 @@
 I have trained an Artificial Neural Network ( model ) that predicts whether
 the customer will exit the bank or not in future based on the features
 like their salary , active status , bank balance , credit card , credit score etc.
-<b>After Hyper Parameter Tuning</b>
 
+
+<b>After Hyper Parameter Tuning</b>
 <i>Model Accuracy : 86.75%</i>
 
 <b>Model Summary :</b>
