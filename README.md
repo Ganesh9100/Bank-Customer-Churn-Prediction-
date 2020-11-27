@@ -13,11 +13,11 @@ like their salary , active status , bank balance , credit card , credit score et
 <p><b>Accuracy:</p></b> 
 
 
-<img src="https://github.com/Ganesh9100/Bank-Customer-Churn-Prediction-/blob/main/hyper_accuracy.png" width="450" title="hover text">
+<img src="https://github.com/Ganesh9100/Bank-Customer-Churn-Prediction-/blob/main/img/hyper_accuracy.png" width="450" title="hover text">
 
 <p><b>Loss</p></b>
 
-<img src="https://github.com/Ganesh9100/Bank-Customer-Churn-Prediction-/blob/main/hyper_loss.png" width="450" title="hover text">
+<img src="https://github.com/Ganesh9100/Bank-Customer-Churn-Prediction-/blob/main/img/hyper_loss.png" width="450" title="hover text">
 
 
 
@@ -45,11 +45,11 @@ like their salary , active status , bank balance , credit card , credit score et
 <p><b>Accuracy:</p></b> 
 
 
-<img src="https://github.com/Ganesh9100/Bank-Customer-Churn-Prediction-/blob/main/hyper_accuracy.png" width="450" title="hover text">
+<img src="https://github.com/Ganesh9100/Bank-Customer-Churn-Prediction-/blob/main/img/u_acc.png" width="450" title="hover text">
 
 <p><b>Loss</p></b>
 
-<img src="https://github.com/Ganesh9100/Bank-Customer-Churn-Prediction-/blob/main/hyper_loss.png" width="450" title="hover text">
+<img src="https://github.com/Ganesh9100/Bank-Customer-Churn-Prediction-/blob/main/img/u_loss.png" width="450" title="hover text">
 
 
 
