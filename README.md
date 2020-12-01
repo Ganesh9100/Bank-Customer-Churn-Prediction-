@@ -20,6 +20,9 @@ like their salary , active status , bank balance , credit card , credit score et
 <img src="https://github.com/Ganesh9100/Bank-Customer-Churn-Prediction-/blob/main/img/hyper_loss.png" width="450" title="hover text">
 
 
+<p>hii modified file</p>
+
+
 
 
 
